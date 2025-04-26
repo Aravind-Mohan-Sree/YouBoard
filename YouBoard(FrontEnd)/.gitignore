@@ -1,0 +1,37 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+build/
+.out/
+
+# temporary files
+*.log
+*.tmp
+*.temp
+
+# local env files
+.env
+.env.*.local
+
+# editor files
+.vscode/
+.idea/
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# test coverage
+coverage/
+.nyc_output/
+
+# TypeScript
+*.tsbuildinfo
+
+# cache
+.cache/
+.next/
+.expo/
