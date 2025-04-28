@@ -172,7 +172,9 @@ CLOUDINARY_API_SECRET=""
 
 Create a .env file in the backend directory with the following:
 
+```
 VITE_API_BASE_URL=""
+```
 
 ### Start the Backend Server
 
