@@ -12,8 +12,6 @@ Secure Authentication: Sign up and log in safely with encrypted credentials
 
 Profile Management: Update personal information and profile pictures
 
-User Dashboard: Intuitive interface to view and manage user details
-
 Responsive Design: Seamless experience across desktop and mobile devices<br><br>  
 
 ## 🛠️ For Admins
