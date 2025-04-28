@@ -62,7 +62,7 @@ Cloudinary: Cloud storage for media
 
 Nodemailer: Email services for verification
 
-Redis: Caching for improved performance
+Redis: For storing auth based datas
 
 ## 📦 Major Technologies
 
