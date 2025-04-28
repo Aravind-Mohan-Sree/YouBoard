@@ -208,7 +208,7 @@ YouBoard is designed using the MVC architecture for clean and organized developm
 
 `/utils - Helper functions and utilities`<br><br>
 
-### Frontend
+### Frontend:
 
 `/src/components - Reusable UI components`
 
