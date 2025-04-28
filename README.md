@@ -92,7 +92,7 @@ Multer and Cloudinary for file handling
 
 Nodemailer for email services
 
-Redis for storing authentication details<br><br>
+Redis for storing auth based datas<br><br>
 
 ## 🛠️ Getting Started
 
