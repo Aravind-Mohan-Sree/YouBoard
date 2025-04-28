@@ -214,8 +214,6 @@ YouBoard is designed using the MVC architecture for clean and organized developm
 
 `/src/pages - Main application views`
 
-`/src/services - API communication`
-
 `/src/store - Redux store configuration`
 
 `/src/utils - Helper functions`
