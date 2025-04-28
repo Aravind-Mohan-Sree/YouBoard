@@ -137,7 +137,7 @@ npm install
 Create a .env file in the backend directory with the following:
 
 ```
-PORT=5000 
+PORT= 
 
 BASE_URL=""
 
@@ -151,7 +151,7 @@ REFRESH_SECRET=""
 
 REDIS_HOST=""
 
-REDIS_PORT=14483
+REDIS_PORT=
 
 REDIS_PASSWORD=""
 
